@@ -1,0 +1,12 @@
+
+.InfoBox{
+    text-align: center;
+    background: rgb(247, 244, 244);
+    
+
+}
+.Container{
+    background: rgb(247, 244, 244);
+    display: flex;
+    justify-content: center;
+}
